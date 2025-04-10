@@ -1,33 +1,27 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yohanna Ogando
-======================================================================================================================================
+# 👋 Hi there! I'm Yohanna Esmaylin Ogando Brito
 
-This repository contains a series of workbooks completed as part of a Data Technician learning program. Each document corresponds to a specific week or section of the curriculum and demonstrates the development of key technical and analytical skills.
+🎯 **About Me**  
+I'm a passionate and curious Aspiring Data Analyst with a strong interest in the  data field. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
-*   🌍  I'm based in London
-*   🖥️  See my portfolio at [Myportafolio](http://https://github.com/YohannaOgando)
-*   ✉️  You can contact me at [yohannaogando29@gmail.com](mailto:yohannaogando29@gmail.com)
-*   🧠  I'm learning more in-depth analytics tools
-*   🤝  I'm open to collaborating on interesting development project
-*   ⚡  I love Bake cakes### Skills 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
-                    </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                      <a href="https://www.github.com/YohannaOgando" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.linkedin.com/in/yohanna-e-ogando-brito-16878221a/" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>
+🧰 **Skills & Tools**  
+- 💻 Languages: SQL, Python  
+- 📊 Data: Excel, Tableau, Power BI, Pandas  
+- 🛠️ Tools: Git, VS Code, Jupyter Notebooks, Google Analytics  
+
+📚 **Currently Learning**  
+I'm diving deeper into:
+- Advanced SQL techniques
+- Building dashboards with Power BI
+- Data storytelling and business insights
+
+🌱 **My Goals for 2025**  
+- Get certified in  Google Data Analytics, Azure, Microsoft Power BI  
+- Contribute to open-source projects  
+- Land a role as a [Data Analyst / Junior Developer 
+
+📫 **Let’s Connect!**  
+- LinkedIn:(https://www.linkedin.com/in/yohanna-e-ogando-brito-16878221a/)
+- - Portfolio:(https://sites.google.com/u/1/new?authuser=1)
+  - - Email:yohannaogandobrito@gmail.com
+
+_Thanks for stopping by! Feel free to check out my pinned projects below._ 🚀
